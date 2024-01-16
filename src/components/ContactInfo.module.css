@@ -1,0 +1,15 @@
+.contactContainer {
+    font-family: 'Arial', sans-serif;
+    color: #C49A6C; /* Adjust the color to match the image */
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .contactEmail {
+    margin: 20px 0;
+    font-size: 1.2em; /* Adjust the size as needed */
+  }
+  .contactNames {
+    font-size: 1em; /* Adjust the size as needed /
+    line-height: 1.6; / Adjust the line spacing as needed */
+  }
