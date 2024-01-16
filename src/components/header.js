@@ -21,14 +21,15 @@ const Header = ({ siteTitle }) => (
     >
       {siteTitle}
     </Link>
-    <StaticImage
+    {/* <StaticImage
         src="../images/logo.jpeg"
         loading="eager"
+        width={64}
         quality={95}
         formats={["auto", "webp", "avif"]}
         alt=""
         style={{ marginBottom: `var(--space-3)` }}
-      />
+      /> */}
   </header>
 )
 
